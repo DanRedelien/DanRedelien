@@ -6,5 +6,28 @@
   />
 </div>
 
+<br />
 
-"Self-taught trading systems developer building a deterministic backtesting engine with execution realism and portfolio risk focus. Strong practical understanding of derivatives, market microstructure, and risk. Math-driven, leveraging LLMs for implementation." - Thank you, ChatGPT, for this writing.
+<div align="center">
+
+### Trading Systems Developer
+
+<strong>
+Self-taught developer building deterministic backtesting infrastructure
+with realistic execution modeling and portfolio risk focus.
+</strong>
+
+<br />
+<br />
+
+Derivatives · Market Microstructure · Risk · Backtesting Engines · Quant Research
+
+<br />
+<br />
+
+<sub>
+Math-driven, practical, and focused on turning trading ideas into testable systems.
+LLMs are used as an implementation accelerator, not as a substitute for reasoning.
+</sub>
+
+</div>
