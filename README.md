@@ -7,10 +7,8 @@
 </div>
 
 <p align="center">
-  <strong>
-    Self-taught trading systems developer building deterministic backtesting infrastructure with execution realism and portfolio risk focus.
-  </strong><br>
+  <b>Self-taught trading systems developer</b><br>
+  Building deterministic backtesting infrastructure with execution realism and portfolio risk focus.<br>
   Derivatives · Market Microstructure · Risk · Backtesting Engines · Quant Research<br>
-  <sub>Math-driven, practical, and LLM-assisted for implementation.</sub><br>
-  <sup>"Thank you, ChatGPT, for this writing."</sup>
+  <i>Math-driven, practical, and LLM-assisted for implementation. "Thank you, ChatGPT, for this writing."</i>
 </p>
