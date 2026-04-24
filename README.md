@@ -6,4 +6,5 @@
   />
 </div>
 
+
 "Self-taught trading systems developer building a deterministic backtesting engine with execution realism and portfolio risk focus. Strong practical understanding of derivatives, market microstructure, and risk. Math-driven, leveraging LLMs for implementation." - Thank you, ChatGPT, for this writing.
