@@ -16,6 +16,7 @@ Working on [`backtesting-engine`](https://github.com/DanRedelien/backtesting-eng
 **Availability**  
 May-Jun is a slow period for me. I expect to resume v2 work closer to late June, but activity will stay limited while I prepare for FRM Part I. Issues are welcome; I will still prioritize clear bug reports and actionable fixes.
 
-<sub>Disclosure: most of my projects are built with substantial LLM assistance, primarily GPT models and other frontier models.</sub>
+**Disclosure**  
+Most of my projects are built with substantial LLM assistance, primarily GPT models and other frontier models.
 
 </div>
